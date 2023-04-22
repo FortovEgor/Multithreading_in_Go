@@ -8,7 +8,6 @@ import (
 	"fmt"
 	"sync"
 	"sync/atomic"
-	_ "time"
 )
 
 func main() {
