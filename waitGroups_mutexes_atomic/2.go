@@ -10,9 +10,6 @@ package main
 import (
 	"fmt"
 	"sync"
-	_ "sync"
-	_ "sync/atomic"
-	_ "time"
 )
 
 func main() {
